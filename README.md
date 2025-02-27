@@ -5,8 +5,8 @@
 ### 1️⃣ Clone Repository
 
 ```sh
-git clone 
-cd <repo-folder>
+git clone https://github.com/HanMwehe/BackEndSql.git
+cd backend
 ```
 
 ### 2️⃣ Install Dependencies
