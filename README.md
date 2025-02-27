@@ -6,7 +6,7 @@
 
 ```sh
 git clone https://github.com/HanMwehe/BackEndSql.git
-cd backend
+cd BackEndSql
 ```
 
 ### 2️⃣ Install Dependencies
